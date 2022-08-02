@@ -1,0 +1,6 @@
+#pyhton
+
+print 'hello'
+
+#finish
+
